@@ -1,6 +1,6 @@
-# v-fire2
+# Vuefire Todo List
 
-> A Vue.js project
+> A basic CRUD todo list app using Vue, Firebase's Firestore DB, and the [firestorePlugin from Vuefire] (https://github.com/vuejs/vuefire/tree/master/packages/vuefire)
 
 ## Build Setup
 
